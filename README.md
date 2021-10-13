@@ -13,8 +13,8 @@
  
 <h2 align="center">Funcionamento</h2>
 <div align="center">
-  <video width="320" height="240" controls>
-  <source src="SistemaDeVendas/src/imagens/SistemaFastFood.mp4" type="video/mp4">
+  <h3>Clique na imagem abaixo para assistir o video 🎬 👇</h3>
+  <a href="https://youtu.be/AVIZPyGZxmI"><img src="SistemaDeVendas/src/imagens/TelaPrincipal.JPG" width="700px"/></a>
 </video>
 </div>
 
