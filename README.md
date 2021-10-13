@@ -14,7 +14,7 @@
 <h2 align="center">Funcionamento</h2>
 <div align="center">
   <video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
+  <source src="SistemaDeVendas/src/imagens/SistemaFastFood.mp4" type="video/mp4">
 </video>
 </div>
 
